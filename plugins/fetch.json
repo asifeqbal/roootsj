@@ -1,0 +1,52 @@
+{
+    "phonegap-plugin-push": {
+        "source": {
+            "type": "registry",
+            "id": "phonegap-plugin-push"
+        },
+        "is_top_level": true,
+        "variables": {
+            "SENDER_ID": "718397155156"
+        }
+    },
+    "cordova-plugin-device": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-device"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-whitelist": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-whitelist@1"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+	"cordova-plugin-globalization": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-globalization"
+        },
+        "is_top_level": true,
+        "variables": {}
+    },
+    "cordova-plugin-background-fetch": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-background-fetch"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+	"cordova-plugin-inappbrowser": {
+        "source": {
+            "type": "registry",
+            "id": "cordova-plugin-inappbrowser@1.5.0"
+        },
+        "is_top_level": true,
+        "variables": {}
+    }
+}
